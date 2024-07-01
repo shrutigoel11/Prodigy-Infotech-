@@ -253,3 +253,8 @@ padding-left: 3rem;}
     height:400px;
 }
 
+.experience img{
+    max-width: 200px; /* Adjust size as needed */
+    margin-left: auto;
+}
+
